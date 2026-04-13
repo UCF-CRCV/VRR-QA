@@ -1,6 +1,6 @@
-# ImplicitQA
+# VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues
 
-In this repository, we add the evaluation scripts on ImplicitQA
+In this repository, we add the evaluation scripts on VRR-QA
 ## Install
 ```
 conda create -n implicit python==3.9 -y
