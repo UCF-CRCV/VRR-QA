@@ -1,6 +1,6 @@
-# VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues
+# VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues (CVPR 2026, Highlight Paper)
 
-In this repository, we add the evaluation scripts on VRR-QA
+Official repository for VRR-QA, CVPR 2026
 ## Install
 ```
 conda create -n implicit python==3.9 -y
