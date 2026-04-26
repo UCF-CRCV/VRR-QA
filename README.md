@@ -15,7 +15,7 @@ pip install pandas
 
 
 ## Evaluation 
-`python eval_seq.py --input-dir <path to data> --model-type <model_type> --num-frames 16`
+`python eval.py --input-dir <path to data> --model-type <model_type> --num-frames 16`
 
 ## Cite
 
